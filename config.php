@@ -9,7 +9,7 @@ declare(strict_types=1);
 const DB_HOST = '127.0.0.1';
 const DB_NAME = 'ia_peru_fintech';
 const DB_USER = 'root';
-const DB_PASS = '';
+const DB_PASS = 'THGUGAUAooiuyas';
 
 // Salt para hashing (demo). Cambiar en despliegues reales.
 const LOG_SALT = 'ACADEMIC_DEMO_CHANGE_ME_2026';
