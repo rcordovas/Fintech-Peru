@@ -31,3 +31,4 @@ Proyecto de **portada** + **buscador** de servicios (catálogo) para fintech fic
 
 ## Imagen
 La portada usa `assets/ia-peru-fintech.jpg`. Esta carpeta ya incluye la imagen que compartiste (si estuvo disponible al generar el ZIP).
+Para cualquier consulta escribe a racscord@gmail.com
