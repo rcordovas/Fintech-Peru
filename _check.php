@@ -13,6 +13,7 @@
  * Tarjetas sinteticas/de prueba:
  * - Visa:       4111111111111111
  * - Mastercard: 5555555555554444
+ * - Test Real: 40001234567899010
  */
 
 declare(strict_types=1);
