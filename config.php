@@ -6,7 +6,7 @@ declare(strict_types=1);
  * Recomendación: use variables de entorno en despliegues reales.
  */
 
-const DB_HOST = '127.0.0.1';
+const DB_HOST = '98.81.232.2';
 const DB_NAME = 'ia_peru_fintech';
 const DB_USER = 'root';
 const DB_PASS = 'THGUGAUAooiuyas';
